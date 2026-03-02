@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1770370026681" clover="3.2.0">
+  <project timestamp="1770370026681" name="All files">
+    <metrics statements="396" coveredstatements="66" conditionals="147" coveredconditionals="20" methods="142" coveredmethods="19" elements="685" coveredelements="105" complexity="0" loc="396" ncloc="396" packages="15" files="30" classes="30"/>
+    <package name="src">
+      <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="App.tsx" path="E:\Data_E\reactjan2026\react-jan2026-app\src\App.tsx">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.__tests__.mocks">
+      <metrics statements="13" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="axiosMock.ts" path="E:\Data_E\reactjan2026\react-jan2026-app\src\__tests__\mocks\axiosMock.ts">
+        <metrics statements="8" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+      </file>
+      <file name="categoryMockData.ts" path="E:\Data_E\reactjan2026\react-jan2026-app\src\__tests__\mocks\categoryMockData.ts">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="25" count="2" type="stmt"/>
+        <line num="32" count="2" type="stmt"/>
+        <line num="39" count="2" type="stmt"/>
+        <line num="51" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components">
+      <metrics statements="70" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="30" coveredmethods="0"/>
+      <file name="categirystatecomponent.tsx" path="E:\Data_E\reactjan2026\react-jan2026-app\src\components\categirystatecomponent.tsx">
+        <metrics statements="17" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="39" count="0" type="stmt"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="68" count="0" type="stmt"/>
+      </file>
+      <file name="categirystatehttpcomponent.tsx" path="E:\Data_E\reactjan2026\react-jan2026-app\src\components\categirystatehttpcomponent.tsx">
+        <metrics statements="28" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="12" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="22" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="35" count="0" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="47" count="0" type="stmt"/>
+        <line num="54" count="0" type="stmt"/>
+        <line num="61" count="0" type="stmt"/>
+        <line num="68" count="0" type="stmt"/>
+        <line num="90" count="0" type="stmt"/>
+      </file>
+      <file name="statecomponent.tsx" path="E:\Data_E\reactjan2026\react-jan2026-app\src\components\statecomponent.tsx">
+        <metrics statements="25" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="11" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="52" count="0" type="stmt"/>
+        <line num="69" count="0" type="stmt"/>
+        <line num="89" count="0" type="stmt"/>
+        <line num="97" count="0" type="stmt"/>
+        <line num="100" count="0" type="stmt"/>
+        <line num="115" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.callbackcheck">
+      <metrics statements="29" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="11" coveredmethods="0"/>
+      <file name="memoisedchildcomponent.tsx" path="E:\Data_E\reactjan2026\react-jan2026-app\src\components\callbackcheck\memoisedchildcomponent.tsx">
+        <metrics statements="5" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+      </file>
+      <file name="parchenchildwithcallback.tsx" path="E:\Data_E\reactjan2026\react-jan2026-app\src\components\callbackcheck\parchenchildwithcallback.tsx">
+        <metrics statements="11" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="35" count="0" type="stmt"/>
+      </file>
+      <file name="parchenchildwithoutcallback.tsx" path="E:\Data_E\reactjan2026\react-jan2026-app\src\components\callbackcheck\parchenchildwithoutcallback.tsx">
+        <metrics statements="13" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="34" count="0" type="stmt"/>
+        <line num="35" count="0" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.contextschema">
+      <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="datacontestschema.ts" path="E:\Data_E\reactjan2026\react-jan2026-app\src\components\contextschema\datacontestschema.ts">
+        <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.customhook">
+      <metrics statements="21" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="5" coveredmethods="0"/>
+      <file name="customhookcomponent.tsx" path="E:\Data_E\reactjan2026\react-jan2026-app\src\components\customhook\customhookcomponent.tsx">
+        <metrics statements="5" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+      </file>
+      <file name="usfetcherhook.ts" path="E:\Data_E\reactjan2026\react-jan2026-app\src\components\customhook\usfetcherhook.ts">
+        <metrics statements="16" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="12" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.lifecycle">
+      <metrics statements="22" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="6" coveredmethods="0"/>
+      <file name="mousemovecomponent.tsx" path="E:\Data_E\reactjan2026\react-jan2026-app\src\components\lifecycle\mousemovecomponent.tsx">
+        <metrics statements="14" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="44" count="0" type="stmt"/>
+      </file>
+      <file name="togglecomponent.tsx" path="E:\Data_E\reactjan2026\react-jan2026-app\src\components\lifecycle\togglecomponent.tsx">
+        <metrics statements="8" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.resusablecomponents">
+      <metrics statements="23" coveredstatements="8" conditionals="41" coveredconditionals="13" methods="10" coveredmethods="4"/>
+      <file name="tablegridcomponent.tsx" path="E:\Data_E\reactjan2026\react-jan2026-app\src\components\resusablecomponents\tablegridcomponent.tsx">
+        <metrics statements="9" coveredstatements="8" conditionals="21" coveredconditionals="13" methods="5" coveredmethods="4"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="6" count="20" type="cond" truecount="7" falsecount="2"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="11" count="20" type="cond" truecount="3" falsecount="1"/>
+        <line num="13" count="20" type="stmt"/>
+        <line num="20" count="80" type="stmt"/>
+        <line num="28" count="60" type="cond" truecount="0" falsecount="4"/>
+        <line num="31" count="240" type="stmt"/>
+        <line num="46" count="1" type="stmt"/>
+      </file>
+      <file name="tablegridcontextcomponent.tsx" path="E:\Data_E\reactjan2026\react-jan2026-app\src\components\resusablecomponents\tablegridcontextcomponent.tsx">
+        <metrics statements="14" coveredstatements="0" conditionals="20" coveredconditionals="0" methods="5" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="13" count="0" type="cond" truecount="0" falsecount="8"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="18" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="34" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="37" count="0" type="stmt"/>
+        <line num="50" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.tanstackexample">
+      <metrics statements="82" coveredstatements="0" conditionals="64" coveredconditionals="0" methods="29" coveredmethods="0"/>
+      <file name="CategoryApi.ts" path="E:\Data_E\reactjan2026\react-jan2026-app\src\components\tanstackexample\CategoryApi.ts">
+        <metrics statements="23" coveredstatements="0" conditionals="32" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="10" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="12" count="0" type="cond" truecount="0" falsecount="6"/>
+        <line num="13" count="0" type="cond" truecount="0" falsecount="6"/>
+        <line num="14" count="0" type="cond" truecount="0" falsecount="6"/>
+        <line num="16" count="0" type="cond" truecount="0" falsecount="6"/>
+        <line num="18" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="20" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="34" count="0" type="stmt"/>
+        <line num="37" count="0" type="stmt"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="42" count="0" type="stmt"/>
+        <line num="43" count="0" type="stmt"/>
+      </file>
+      <file name="TanstackCategoryCrud.tsx" path="E:\Data_E\reactjan2026\react-jan2026-app\src\components\tanstackexample\TanstackCategoryCrud.tsx">
+        <metrics statements="29" coveredstatements="0" conditionals="20" coveredconditionals="0" methods="12" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="35" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="43" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="48" count="0" type="stmt"/>
+        <line num="67" count="0" type="stmt"/>
+        <line num="75" count="0" type="stmt"/>
+        <line num="82" count="0" type="stmt"/>
+        <line num="83" count="0" type="stmt"/>
+      </file>
+      <file name="TanstackCategoryForm.tsx" path="E:\Data_E\reactjan2026\react-jan2026-app\src\components\tanstackexample\TanstackCategoryForm.tsx">
+        <metrics statements="20" coveredstatements="0" conditionals="10" coveredconditionals="0" methods="6" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="16" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="35" count="0" type="stmt"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="42" count="0" type="stmt"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="53" count="0" type="stmt"/>
+      </file>
+      <file name="TanstackCategoryList.tsx" path="E:\Data_E\reactjan2026\react-jan2026-app\src\components\tanstackexample\TanstackCategoryList.tsx">
+        <metrics statements="7" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="11" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+      </file>
+      <file name="index.ts" path="E:\Data_E\reactjan2026\react-jan2026-app\src\components\tanstackexample\index.ts">
+        <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.tanstackqueryexample">
+      <metrics statements="32" coveredstatements="28" conditionals="8" coveredconditionals="7" methods="16" coveredmethods="8"/>
+      <file name="categorystatetanstackcomponent.tsx" path="E:\Data_E\reactjan2026\react-jan2026-app\src\components\tanstackqueryexample\categorystatetanstackcomponent.tsx">
+        <metrics statements="32" coveredstatements="28" conditionals="8" coveredconditionals="7" methods="16" coveredmethods="8"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="30" type="stmt"/>
+        <line num="9" count="30" type="stmt"/>
+        <line num="11" count="30" type="stmt"/>
+        <line num="14" count="30" type="stmt"/>
+        <line num="16" count="30" type="stmt"/>
+        <line num="18" count="9" type="stmt"/>
+        <line num="24" count="30" type="stmt"/>
+        <line num="25" count="2" type="stmt"/>
+        <line num="28" count="2" type="stmt"/>
+        <line num="32" count="30" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="43" count="30" type="stmt"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="55" count="30" type="stmt"/>
+        <line num="57" count="2" type="stmt"/>
+        <line num="58" count="2" type="stmt"/>
+        <line num="60" count="30" type="stmt"/>
+        <line num="61" count="3" type="stmt"/>
+        <line num="65" count="30" type="cond" truecount="2" falsecount="0"/>
+        <line num="67" count="21" type="cond" truecount="2" falsecount="0"/>
+        <line num="69" count="20" type="stmt"/>
+        <line num="76" count="0" type="stmt"/>
+        <line num="83" count="4" type="stmt"/>
+        <line num="90" count="4" type="stmt"/>
+        <line num="97" count="0" type="stmt"/>
+        <line num="117" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.usefromhookvalidations">
+      <metrics statements="21" coveredstatements="6" conditionals="16" coveredconditionals="0" methods="7" coveredmethods="0"/>
+      <file name="customformcomponent.tsx" path="E:\Data_E\reactjan2026\react-jan2026-app\src\components\usefromhookvalidations\customformcomponent.tsx">
+        <metrics statements="21" coveredstatements="6" conditionals="16" coveredconditionals="0" methods="7" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="17" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="22" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="37" count="0" type="stmt"/>
+        <line num="42" count="0" type="stmt"/>
+        <line num="47" count="0" type="stmt"/>
+        <line num="57" count="1" type="stmt"/>
+        <line num="63" count="0" type="stmt"/>
+        <line num="75" count="0" type="stmt"/>
+        <line num="76" count="0" type="stmt"/>
+        <line num="78" count="0" type="stmt"/>
+        <line num="139" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.usememocheck">
+      <metrics statements="30" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="12" coveredmethods="0"/>
+      <file name="usememocomponent.tsx" path="E:\Data_E\reactjan2026\react-jan2026-app\src\components\usememocheck\usememocomponent.tsx">
+        <metrics statements="13" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="35" count="0" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="51" count="0" type="stmt"/>
+        <line num="56" count="0" type="stmt"/>
+        <line num="65" count="0" type="stmt"/>
+      </file>
+      <file name="withusememocomponent.tsx" path="E:\Data_E\reactjan2026\react-jan2026-app\src\components\usememocheck\withusememocomponent.tsx">
+        <metrics statements="17" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="37" count="0" type="stmt"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="39" count="0" type="stmt"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="45" count="0" type="stmt"/>
+        <line num="49" count="0" type="stmt"/>
+        <line num="60" count="0" type="stmt"/>
+        <line num="67" count="0" type="stmt"/>
+        <line num="77" count="0" type="stmt"/>
+        <line num="84" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.usereducercomponent">
+      <metrics statements="28" coveredstatements="0" conditionals="10" coveredconditionals="0" methods="6" coveredmethods="0"/>
+      <file name="reducercomponent.tsx" path="E:\Data_E\reactjan2026\react-jan2026-app\src\components\usereducercomponent\reducercomponent.tsx">
+        <metrics statements="20" coveredstatements="0" conditionals="6" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="16" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="29" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="39" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="42" count="0" type="stmt"/>
+      </file>
+      <file name="stateandreducerfunction.ts" path="E:\Data_E\reactjan2026\react-jan2026-app\src\components\usereducercomponent\stateandreducerfunction.ts">
+        <metrics statements="8" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="23" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.models">
+      <metrics statements="6" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="category.ts" path="E:\Data_E\reactjan2026\react-jan2026-app\src\models\category.ts">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="13" count="37" type="stmt"/>
+        <line num="14" count="37" type="stmt"/>
+        <line num="15" count="37" type="stmt"/>
+        <line num="16" count="37" type="stmt"/>
+      </file>
+      <file name="responseobject.ts" path="E:\Data_E\reactjan2026\react-jan2026-app\src\models\responseobject.ts">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.services">
+      <metrics statements="14" coveredstatements="14" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="6"/>
+      <file name="categoryhttpservice.ts" path="E:\Data_E\reactjan2026\react-jan2026-app\src\services\categoryhttpservice.ts">
+        <metrics statements="14" coveredstatements="14" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="6"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="10" type="stmt"/>
+        <line num="6" count="10" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="27" count="2" type="stmt"/>
+        <line num="32" count="1" type="stmt"/>
+        <line num="36" count="2" type="stmt"/>
+        <line num="37" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
